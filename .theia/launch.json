@@ -1,11 +1,25 @@
 {
     "configurations": [
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "JavaOnChromebook_bc59c4ad"
-        }
+      {
+        "type": "java",
+        "name": "CodeLens (Launch) - IntegerConversions",
+        "request": "launch",
+        "mainClass": "IntegerConversion.IntegerConversions",
+        "projectName": "JavaOnChromebook_bc59c4ad"
+      },
+      {
+        "type": "java",
+        "name": "CodeLens (Launch) - IntegerConversions",
+        "request": "launch",
+        "mainClass": "IntegerConversions",
+        "projectName": "JavaOnChromebook_bc59c4ad"
+      },
+      {
+        "type": "java",
+        "name": "CodeLens (Launch) - Main",
+        "request": "launch",
+        "mainClass": "Main",
+        "projectName": "JavaOnChromebook_bc59c4ad"
+      }
     ]
 }
